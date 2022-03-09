@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wavey1287
-- 👀 I’m interested in ... UX/UI Product Design
+- 👀 I’m interested in ... Android Development
 - 🌱 I’m currently learning ... HTML, CSS, Javascript, SQL, Python, C++, PHP, Java, Dart, Swift
 - 💞️ I’m looking to collaborate on ... Web Design, Apps
 - 📫 How to reach me ... davidajones1287@gmail.com
