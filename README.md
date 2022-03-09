@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Wavey1287
 - 👀 I’m interested in ... Android Development
-- 🌱 I’m currently learning ... HTML, CSS, Javascript, SQL, Python, C++, PHP, Java, Dart, Swift
-- 💞️ I’m looking to collaborate on ... Web Design, Apps
-- 📫 How to reach me ... davidajones1287@gmail.com
+- 🌱 I’m currently learning ... Java
+- 💞️ I’m looking to collaborate on ... App Development
+- 📫 How to reach me ... davidajones1287@gmail.com | https://stackoverflow.com/users/18421129/david-jones
 
 <!---
 Wavey1287/Wavey1287 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
