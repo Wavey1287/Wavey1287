@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wavey1287
 - 👀 I’m interested in ... Android Development
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... SQL
 - 💞️ I’m looking to collaborate on ... App Development
 - 📫 How to reach me ... davidajones1287@gmail.com | https://stackoverflow.com/users/18421129/david-jones
 
